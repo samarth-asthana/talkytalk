@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "talkytalk",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/jarvis/Desktop/letstalk/amplify/backend/api/talkytalk/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authtalkytalkdbc6885d"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}

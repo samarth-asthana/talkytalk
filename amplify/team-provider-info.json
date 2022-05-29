@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-talkytalk-dev-12446-authRole",
+      "UnauthRoleArn": "arn:aws:iam::151860530708:role/amplify-talkytalk-dev-12446-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::151860530708:role/amplify-talkytalk-dev-12446-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-talkytalk-dev-12446-deployment",
+      "UnauthRoleName": "amplify-talkytalk-dev-12446-unauthRole",
+      "StackName": "amplify-talkytalk-dev-12446",
+      "StackId": "arn:aws:cloudformation:us-east-2:151860530708:stack/amplify-talkytalk-dev-12446/34a0cdb0-df89-11ec-be6c-0644d7d2eaf4",
+      "AmplifyAppId": "d2id5ijy4a22bg"
+    },
+    "categories": {
+      "auth": {
+        "talkytalkdbc6885d": {}
+      }
+    }
+  }
+}
